@@ -4,6 +4,7 @@ dist/
 vite-server*.log
 
 *.md
+!README.md
 *.tex
 *.pptx
 *.pdf
